@@ -1,0 +1,226 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Earl Chase III",
+    "label": "Analyst",
+    "image": "",
+    "email": "echase3@gmail.com",
+    "phone": "",
+    "url": "https://github.com/VictorHugoPilled",
+    "summary": "Skilled Front-Office Developer with over 3 years of experience working in the financial industry. Proficient in using Python for developing automation solutions to streamline processes and improve accuracy complemented by skills in VBA and Advanced Excel. Advanced knowledge of derivatives, made effective in the enhancement and maintenance of trade reconciliation systems.\n\n\nAREAS OF EXPERTISE\n Python | Trade Management | Analytics | Trade Reconciliation | Advanced MS Excel | MS SQL | VBA | Options | Futures",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "earl-chase-iii",
+        "url": "https://www.linkedin.com/in/earl-chase-iii/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Milliman",
+      "position": "Analyst",
+      "startDate": "2022-07-31",
+      "endDate": "2023-03-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/8019",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "Wells Fargo",
+      "position": "Analyst",
+      "startDate": "2020-08-31",
+      "endDate": "2022-02-28",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/1235",
+      "location": null
+    },
+    {
+      "name": "EREN",
+      "position": "Research Intern",
+      "startDate": "2019-10-31",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "summary": null,
+      "url": "",
+      "location": "Paris Area, France"
+    },
+    {
+      "name": "Dominium",
+      "position": "Development Intern",
+      "startDate": "2019-05-31",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/63171",
+      "location": "Plymouth,MN"
+    },
+    {
+      "name": "TADS",
+      "position": "Financial Aid and Document Processing Intern",
+      "startDate": "2018-11-30",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/16274946",
+      "location": "Greater Minneapolis-St. Paul Area"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Macalester College",
+      "area": "",
+      "studyType": "Bachelor of Arts - BA",
+      "startDate": "2016-09-30",
+      "endDate": "2020-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "New Trier Township High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "School Year Abroad",
+      "area": "",
+      "studyType": "",
+      "startDate": "2014-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Modelling the number of avoidable new cancer cases in France attributable to alcohol consumption by following official recommendations: a simulation study",
+      "publisher": "Addiction",
+      "releaseDate": "2021-02-10",
+      "summary": "",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/add.15426"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic for Applications (VBA)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Capital Markets",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quantitative Analysis (Finance)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "French",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
